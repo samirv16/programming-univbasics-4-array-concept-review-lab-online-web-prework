@@ -4,8 +4,12 @@ def find_element_index(array, value_to_find)
     if array[count] == value_to_find
       return count
     end
+<<<<<<< HEAD
   end
    nil
+=======
+      nil 
+>>>>>>> c7e190c0f2bea8bd2a98494a4b1ce2e3c31db166
 end
 
 def find_max_value(array)
